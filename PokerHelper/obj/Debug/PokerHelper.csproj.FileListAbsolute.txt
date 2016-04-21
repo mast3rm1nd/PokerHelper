@@ -1,0 +1,13 @@
+C:\Dropbox\!Coding\All_in_one\PokerHelper\PokerHelper\bin\Debug\PokerHelper.exe.config
+C:\Dropbox\!Coding\All_in_one\PokerHelper\PokerHelper\bin\Debug\PokerHelper.exe
+C:\Dropbox\!Coding\All_in_one\PokerHelper\PokerHelper\bin\Debug\PokerHelper.pdb
+C:\Dropbox\!Coding\All_in_one\PokerHelper\PokerHelper\obj\Debug\PokerHelper.csprojResolveAssemblyReference.cache
+C:\Dropbox\!Coding\All_in_one\PokerHelper\PokerHelper\obj\Debug\MainWindow.baml
+C:\Dropbox\!Coding\All_in_one\PokerHelper\PokerHelper\obj\Debug\MainWindow.g.cs
+C:\Dropbox\!Coding\All_in_one\PokerHelper\PokerHelper\obj\Debug\App.g.cs
+C:\Dropbox\!Coding\All_in_one\PokerHelper\PokerHelper\obj\Debug\PokerHelper_MarkupCompile.cache
+C:\Dropbox\!Coding\All_in_one\PokerHelper\PokerHelper\obj\Debug\PokerHelper.g.resources
+C:\Dropbox\!Coding\All_in_one\PokerHelper\PokerHelper\obj\Debug\PokerHelper.Properties.Resources.resources
+C:\Dropbox\!Coding\All_in_one\PokerHelper\PokerHelper\obj\Debug\PokerHelper.csproj.GenerateResource.Cache
+C:\Dropbox\!Coding\All_in_one\PokerHelper\PokerHelper\obj\Debug\PokerHelper.exe
+C:\Dropbox\!Coding\All_in_one\PokerHelper\PokerHelper\obj\Debug\PokerHelper.pdb
